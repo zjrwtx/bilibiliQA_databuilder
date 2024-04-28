@@ -11,6 +11,9 @@ python = ">=3.10"
 requests = "^2.31.0"
 pydantic = "^2.7.0"
 ffmpeg-python = "^0.2.0"
+bilix = "^0.18.8"
+openai = "^1.23.6"
+python-dotenv = "^1.0.1"
 
 [tool.poetry.scripts]
 bcut-asr = "bcut_asr.__main__:main"

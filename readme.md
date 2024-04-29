@@ -20,7 +20,7 @@
 
 使用bilibili视频下载器与字幕识别api生成指定视频的字幕文件——基于零一万物模型生成questions文件——VideoQA_databuilder [https://github.com/zjrwtx/VideoQA_databuilder](https://github.com/zjrwtx/VideoQA_databuilder) 项目读取questions文件——然后基于零一万物模型生成基于视频内容的回答后自我调整——最后将回答保存到answers.json文件。
 
-本项目遵循GPL许可证，欢迎贡献代码或提出改进建议。项目地址：[https://github.com/zjrwtx/VideoQA_databuilder](https://github.com/zjrwtx/VideoQA_databuilder)
+本项目遵循GPL许可证，欢迎贡献代码或提出改进建议。项目地址：[https://github.com/zjrwtx/bilibiliQA_databuilder](https://github.com/zjrwtx/bilibiliQA_databuilder)
 
 
 
@@ -85,7 +85,7 @@ agi_isallyouneed
 <a name="20a28457"></a>
 # 许可证
 
-本项目遵循GPL许可证，欢迎贡献代码或提出改进建议。项目地址：[https://github.com/zjrwtx/VideoQA_databuilder](https://github.com/zjrwtx/VideoQA_databuilder)
+本项目遵循GPL许可证，欢迎贡献代码或提出改进建议。项目地址：[https://github.com/zjrwtx/bilibiliQA_databuilder](https://github.com/zjrwtx/bilibiliQA_databuilder)
 
 非商业用途：本项目的所有源代码和相关文档仅限于非商业用途。任何商业用途均被严格禁止。
 
